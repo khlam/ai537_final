@@ -1,0 +1,12 @@
+numpy
+pandas
+jupyterlab
+matplotlib
+tqdm
+ipywidgets
+dataclasses
+grad-cam
+torchattacks
+wandb
+rich
+Pillow
