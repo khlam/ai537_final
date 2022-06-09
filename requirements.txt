@@ -6,7 +6,6 @@ tqdm
 ipywidgets
 dataclasses
 grad-cam
-torchattacks
 wandb
 rich
 Pillow
